@@ -11,8 +11,8 @@
 
 ### `BSP & Linux Kernel Developer` · `Embedded Systems Engineer`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raushan_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raushan-kumar)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Top_10%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raushan_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raushan-kumar-8aa888268/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Top_10%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/viratraushan423/)
 [![Email](https://img.shields.io/badge/Gmail-kumarraushan.ac@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarraushan.ac@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Bangalore,_India-4CAF50?style=for-the-badge)](https://maps.google.com/?q=Bangalore,India)
 
