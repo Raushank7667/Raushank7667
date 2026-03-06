@@ -126,7 +126,7 @@ struct Developer raushan = {
 
 <div align="center">
 
-![Raushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Raushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raushank7667&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raushank7667&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
